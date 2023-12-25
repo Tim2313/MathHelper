@@ -1,0 +1,8 @@
+.idea
+target
+docker/postgres-data
+*.iml
+.war
+.jar
+.log
+logs
